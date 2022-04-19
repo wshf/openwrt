@@ -11,3 +11,4 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld
 src-git openclash https://github.com/vernesong/OpenClash
+src-git kenzo https://github.com/kenzok8/openwrt-packages
